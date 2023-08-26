@@ -25,7 +25,7 @@
 # 📖 Hello React Front End <a name="about-project"></a>
 
 
-The "Hello React Frontend" application is developed using React and serves as a frontend/ client side  system. It provides the views, that supplies greetings fetched from the [Hello Rails Backend](https://github.com/tomdan-ai/hello-react-backend), API
+The "Hello React Frontend" application is developed using React and serves as a frontend/ client side  system. It provides the views, that supplies greetings fetched from the [Hello Rails Backend](https://github.com/tomdan-ai/hello-rails-backend), API
 
 ## 🛠️ Built With <a name="built-with"></a>
 
