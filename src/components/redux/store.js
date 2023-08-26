@@ -1,5 +1,8 @@
-import React from 'react';
+import { configureStore } from '@reduxjs/toolkit';
+import greetingReducer from './greetingSlice';
 
-const store = () => (
-  <div>store</div>
-);
+export const store = configureStore({
+  reducer: {
+    greeting: greetingReducer,
+  },
+});
